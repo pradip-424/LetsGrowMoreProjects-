@@ -1,0 +1,4 @@
+for admin login
+
+email:admin
+password:123
